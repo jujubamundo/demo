@@ -3,4 +3,4 @@
 
 -Learning Github
 
-. I know how to push modfications to Github
+1. I know how to push modfications to Github
